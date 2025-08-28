@@ -1,4 +1,4 @@
 # Beauty 101
-
-An app to aid beauty retailer clients in assessing their products throught reviews and ratings.
+A model to analyze skincare and beauty reviews from Sephora to uncover customer sentiment 
+and help new customers make informed decisions.
 
